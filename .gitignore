@@ -2,3 +2,6 @@
 target/
 target/*
 
+/logs/
+/.DS_Store
+/nohup.out
